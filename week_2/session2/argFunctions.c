@@ -6,6 +6,10 @@ int sum (int a, int b) { //parameters in function
     return answer;
 }
 
+float func3 (float a, float b) {
+
+}
+
 int main() {
     int y = 2;
     int z = sum(5,y); //calling the function and passing args 5 and y into it
